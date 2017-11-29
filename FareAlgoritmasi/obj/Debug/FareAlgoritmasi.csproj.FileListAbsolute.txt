@@ -1,0 +1,38 @@
+C:\Users\User\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.Form1.resources
+C:\Users\User\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.Properties.Resources.resources
+C:\Users\User\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.exe.config
+C:\Users\User\Desktop\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.exe
+C:\Users\User\Desktop\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.pdb
+C:\Users\User\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.exe
+C:\Users\User\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.pdb
+C:\Users\kayaf\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csprojResolveAssemblyReference.cache
+C:\Users\kayaf\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.Form1.resources
+C:\Users\kayaf\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.Properties.Resources.resources
+C:\Users\kayaf\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csproj.GenerateResource.Cache
+C:\Users\kayaf\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\kayaf\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.exe
+C:\Users\kayaf\Desktop\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.pdb
+C:\Users\kayaf\Desktop\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.exe.config
+C:\Users\kayaf\Desktop\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.exe
+C:\Users\kayaf\Desktop\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.pdb
+C:\Users\User\Desktop\yazılım sınama\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.exe.config
+C:\Users\User\Desktop\yazılım sınama\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.exe
+C:\Users\User\Desktop\yazılım sınama\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.pdb
+C:\Users\User\Desktop\yazılım sınama\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.exe
+C:\Users\User\Desktop\yazılım sınama\FareAlgoritmasi\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.pdb
+C:\Users\User\Desktop\yazılım sınama\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\yazılım sınama\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.Form1.resources
+C:\Users\User\Desktop\yazılım sınama\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.Properties.Resources.resources
+C:\Users\User\Desktop\yazılım sınama\FareAlgoritmasi\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csproj.GenerateResource.Cache
+C:\Users\kayaf\Desktop\Fare\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.exe.config
+C:\Users\kayaf\Desktop\Fare\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.exe
+C:\Users\kayaf\Desktop\Fare\FareAlgoritmasi\bin\Debug\FareAlgoritmasi.pdb
+C:\Users\kayaf\Desktop\Fare\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csprojResolveAssemblyReference.cache
+C:\Users\kayaf\Desktop\Fare\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.Form1.resources
+C:\Users\kayaf\Desktop\Fare\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.Properties.Resources.resources
+C:\Users\kayaf\Desktop\Fare\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csproj.GenerateResource.Cache
+C:\Users\kayaf\Desktop\Fare\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.csproj.CoreCompileInputs.cache
+C:\Users\kayaf\Desktop\Fare\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.exe
+C:\Users\kayaf\Desktop\Fare\FareAlgoritmasi\obj\Debug\FareAlgoritmasi.pdb
